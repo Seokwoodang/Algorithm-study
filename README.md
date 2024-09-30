@@ -7,8 +7,8 @@
 
 |문제|난이도(10점 만점)|문제풀이 일자|
 |------|:---:|---|
-|세 수 중 최솟값|1|2024-09-30|
-|삼각형 판별하기|2|2024-09-30|
-|연필개수|1|2024-09-30|
-|1부터 N까지의 합|1|2024-09-30|
-|최솟값 구하기|2|2024-09-30|
+|[세 수 중 최솟값](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/minimum.js)|1|2024-09-30|
+|[삼각형 판별하기](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/isTriangle.js)|2|2024-09-30|
+|[연필개수](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/pencil.js)|1|2024-09-30|
+|[1부터 N까지의 합](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/sum.js)|1|2024-09-30|
+|[최솟값 구하기](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/minimum2.js)|2|2024-09-30|
