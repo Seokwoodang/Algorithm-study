@@ -15,5 +15,5 @@
 |[홀수](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/odd.js)|2|2024-10-01|
 |[10부제](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/car.js)|1|2024-10-01|
 |[일곱난쟁이](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/dwarf.js)|4|2024-10-01|
-|[A를 #으로](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/minimum2.js)|2|2024-10-01|
-|[문자 찾기](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/minimum2.js)|2|2024-10-01|
+|[A를 #으로](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/replace.js)|1|2024-10-01|
+|[문자 찾기](https://github.com/Seokwoodang/Algorithm-study/blob/main/section1/search.js)|1|2024-10-01|
