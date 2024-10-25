@@ -1,3 +1,5 @@
+// 이중 for문을 돌리는 형식이 아니라 옆으로 한칸씩 밀며 한번에 돌 수 있게 처리하는 방식. 훨씬 더 효율적이다.
+
 const solution = (num, arr) => {
   let max = 0;
   let sum = 0;
