@@ -1,8 +1,7 @@
 name: MD 생성 자동화
 
 on:
-  push:
-    branches-ignore: ["*"]
+  push: "*"
 
 jobs:
   create-pr:
