@@ -19,5 +19,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
 
         run: |
+          git config user.name "unchaptered"
+          git config user.email "workstation19961002@gmail.com"
+          
           chmod +x auto.sh
           ./auto.sh

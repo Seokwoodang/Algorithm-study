@@ -27,5 +27,5 @@ IS_GENERATED_MD=$(git status | grep -e README.md)
 if [ -z "$IS_GENERATED_MD" ]; then
     echo "hi"
 else
-    git commit -m "add : README.md"
+    git commit -m "add : README.md" --author "Seokwoodang <swoo1429@naver.com>"
 fi
