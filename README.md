@@ -48,6 +48,7 @@
 |  |  | [two-pointer-sumArr.js](./section5/two-pointer-sumArr.js) | 2024-10-25 |
 |  |  | [queue-education.js](./section6/queue-education.js) | 2024-11-04 |
 |  |  | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |
+| sample | sample | [sample.js](./section6/sample.js) | 2024-11-07 |
 |  |  | [stack-crain.js](./section6/stack-crain.js) | 2024-10-31 |
 |  |  | [stack-ironRod.js](./section6/stack-ironRod.js) | 2024-10-31 |
 |  |  | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |
