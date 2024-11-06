@@ -50,6 +50,7 @@
 |  |  | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |
 | sample | sample | [sample.js](./section6/sample.js) | 2024-11-07 |
 | sample | sample | [sample2.js](./section6/sample2.js) | 2024-11-07 |
+| sample | sample | [sample3.js](./section6/sample3.js) | 2024-11-07 |
 |  |  | [stack-crain.js](./section6/stack-crain.js) | 2024-10-31 |
 |  |  | [stack-ironRod.js](./section6/stack-ironRod.js) | 2024-10-31 |
 |  |  | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |
