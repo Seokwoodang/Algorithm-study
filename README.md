@@ -6,7 +6,7 @@
 | 제목 | 레벨 | 파일 | 날짜 |
 | --- | --- | -- | -- |
 | 차정렬 | 1 | [car.js](./section1/car.js) | 2024-10-01 |
-|  |  | [dwarf.js](./section1/dwarf.js) | 2024-10-01 |
+| blabla |  | [dwarf.js](./section1/dwarf.js) | 2024-10-01 |
 |  |  | [isTriangle.js](./section1/isTriangle.js) | 2024-09-30 |
 |  |  | [longestStr.js](./section1/longestStr.js) | 2024-10-02 |
 |  |  | [midStr.js](./section1/midStr.js) | 2024-10-11 |
