@@ -1,4 +1,4 @@
-name: PR 생성 자동화
+name: MD 생성 자동화
 
 on:
   push:
