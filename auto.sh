@@ -21,3 +21,11 @@ for JS_DIR in $JS_DIRS; do
     echo "| $title | $level | [$JS_FILE]($JS_DIR) | $DATETIME |" >> README.md
 
 done
+
+git add .
+IS_GENERATED_MD=$(git status | grep -e README.md)
+if [ -z "$IS_GENERATED_MD" ]; then
+    echo "hi"
+else
+    git commit -m "add : README.md"
+fi
