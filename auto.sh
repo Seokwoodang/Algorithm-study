@@ -7,7 +7,7 @@ echo "# Algorithm-study" >> README.md
 echo "" >> README.md
 echo "자바스크립트 알고리즘 공부" >> README.md
 echo "" >> README.md
-echo "누적 : $JS_CNT"
+echo "누적 : $JS_CNT" >> README.md
 echo "" >> README.md
 echo "| 제목 | 레벨 | 파일 | 날짜 |" >> README.md
 echo "| --- | --- | -- | -- |" >> README.md
