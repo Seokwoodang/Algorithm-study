@@ -3,6 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
+
 | 제목 | 레벨 | 파일 | 날짜 |
 | --- | --- | -- | -- |
 | 차정렬 | 1 | [car.js](./section1/car.js) | 2024-10-01 |
@@ -48,9 +49,6 @@
 |  |  | [two-pointer-sumArr.js](./section5/two-pointer-sumArr.js) | 2024-10-25 |
 |  |  | [queue-education.js](./section6/queue-education.js) | 2024-11-04 |
 |  |  | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |
-| sample | sample | [sample.js](./section6/sample.js) | 2024-11-07 |
-| sample | sample | [sample2.js](./section6/sample2.js) | 2024-11-07 |
-| sample | sample | [sample3.js](./section6/sample3.js) | 2024-11-07 |
 |  |  | [stack-crain.js](./section6/stack-crain.js) | 2024-10-31 |
 |  |  | [stack-ironRod.js](./section6/stack-ironRod.js) | 2024-10-31 |
 |  |  | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |

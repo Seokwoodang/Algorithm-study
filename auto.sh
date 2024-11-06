@@ -1,14 +1,18 @@
 
+JS_DIRS=$(find "." -type f -name "*.js" | sort -u)
+JS_CNT=$(find "." -type f -name "*.js" | sort -u | wc -l)
 
 echo "" > README.md
 echo "# Algorithm-study" >> README.md
 echo "" >> README.md
 echo "자바스크립트 알고리즘 공부" >> README.md
 echo "" >> README.md
+echo "누적 : $JS_CNT"
+echo "" >> README.md
 echo "| 제목 | 레벨 | 파일 | 날짜 |" >> README.md
 echo "| --- | --- | -- | -- |" >> README.md
 
-JS_DIRS=$(find "." -type f -name "*.js" | sort -u)
+
 for JS_DIR in $JS_DIRS; do
 
     DATETIME=$(git log --diff-filter=A --format=%ad --date=short -- $JS_DIR)
