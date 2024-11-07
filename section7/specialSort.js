@@ -1,4 +1,4 @@
-//title:SpecialSort-버블정렬
+//title:버블정렬
 //level:2
 
 const solution = (arr) => {
