@@ -1,3 +1,6 @@
+//title:큐
+//level:5
+
 const solution = (str1, str2) => {
   let queue = [];
   for (let x of str1) {

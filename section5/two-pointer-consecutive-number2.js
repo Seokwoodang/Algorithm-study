@@ -1,3 +1,6 @@
+//title:투포인터
+//level:5
+
 const solution = (num, arr) => {
   let count = 0;
   for (let i = 0; i < arr.length; i++) {

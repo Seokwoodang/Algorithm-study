@@ -1,3 +1,6 @@
+//title:스택
+//level:5
+
 const solution = (str) => {
   let answer = "";
   let stack = [];

@@ -1,3 +1,6 @@
+//title:해쉬,투포인터
+//level:8
+
 const checkMatch = (sH, tH) => {
   if (sH.size !== tH.size) return false;
   for (let [key, value] of sH) {

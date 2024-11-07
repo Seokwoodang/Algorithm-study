@@ -1,3 +1,6 @@
+//title:해쉬
+//level:4
+
 const solution = (str) => {
   let answer;
   let sH = new Map();

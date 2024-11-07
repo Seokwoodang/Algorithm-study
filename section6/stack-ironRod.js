@@ -1,3 +1,6 @@
+//title:스택
+//level:5
+
 // 입력이 괄호가 들어온다면 10중 9는 stack
 
 const solution = (str) => {

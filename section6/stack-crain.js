@@ -1,3 +1,6 @@
+//title:스택
+//level:6
+
 // 내 풀이
 const solution = (arr1, arr2) => {
   let answer = 0;

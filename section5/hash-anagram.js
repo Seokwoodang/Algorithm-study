@@ -1,3 +1,6 @@
+//title:해쉬
+//level:5
+
 const solution = (str1, str2) => {
   let sH = new Map();
   for (const x of str1) {

@@ -1,3 +1,6 @@
+//title:투포인터
+//level:5
+
 // sort로 처리하면 쉽지만 sort를 사용하면 n log n 의 비용이 들기 때문에 n + m의 비용이 드는 반복문을 통해 투 포인터를 사용한다.
 
 const solution = (arr1, arr2) => {
