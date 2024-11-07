@@ -40,21 +40,21 @@
 |  |  | [mentor.js](./section4/mentor.js) | 2024-10-23 |
 |  |  | [reversePrime.js](./section4/reversePrime.js) | 2024-10-21 |
 |  |  | [sumOfNum.js](./section4/sumOfNum.js) | 2024-10-21 |
-|  |  | [hash-anagram.js](./section5/hash-anagram.js) | 2024-10-28 |
-|  |  | [hash-chairman.js](./section5/hash-chairman.js) | 2024-10-28 |
-|  |  | [sliding-window-max-sale.js](./section5/sliding-window-max-sale.js) | 2024-10-25 |
-|  |  | [total-everyAnagram.js](./section5/total-everyAnagram.js) | 2024-10-29 |
-|  |  | [two-pointer-consecutive-number.js](./section5/two-pointer-consecutive-number.js) | 2024-10-25 |
-|  |  | [two-pointer-consecutive-number2.js](./section5/two-pointer-consecutive-number2.js) | 2024-10-25 |
-|  |  | [two-pointer-elemental.js](./section5/two-pointer-elemental.js) | 2024-10-25 |
-|  |  | [two-pointer-sumArr.js](./section5/two-pointer-sumArr.js) | 2024-10-25 |
-|  |  | [queue-education.js](./section6/queue-education.js) | 2024-11-04 |
-|  |  | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |
-|  |  | [stack-crain.js](./section6/stack-crain.js) | 2024-10-31 |
-|  |  | [stack-ironRod.js](./section6/stack-ironRod.js) | 2024-10-31 |
-|  |  | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |
-|  |  | [stack-postfix.js](./section6/stack-postfix.js) | 2024-10-31 |
-|  |  | [stack-removeStr.js](./section6/stack-removeStr.js) | 2024-10-29 |
+| 해쉬 | 5 | [hash-anagram.js](./section5/hash-anagram.js) | 2024-10-28 |
+| 해쉬 | 4 | [hash-chairman.js](./section5/hash-chairman.js) | 2024-10-28 |
+| 슬라이딩윈도우 | 5 | [sliding-window-max-sale.js](./section5/sliding-window-max-sale.js) | 2024-10-25 |
+| 해쉬,투포인터 | 8 | [total-everyAnagram.js](./section5/total-everyAnagram.js) | 2024-10-29 |
+| 투포인터 | 5 | [two-pointer-consecutive-number.js](./section5/two-pointer-consecutive-number.js) | 2024-10-25 |
+| 투포인터 | 5 | [two-pointer-consecutive-number2.js](./section5/two-pointer-consecutive-number2.js) | 2024-10-25 |
+| 투포인터 | 5 | [two-pointer-elemental.js](./section5/two-pointer-elemental.js) | 2024-10-25 |
+| 투포인터 | 5 | [two-pointer-sumArr.js](./section5/two-pointer-sumArr.js) | 2024-10-25 |
+| 큐 | 5 | [queue-education.js](./section6/queue-education.js) | 2024-11-04 |
+| 큐 | 5 | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |
+| 스택 | 6 | [stack-crain.js](./section6/stack-crain.js) | 2024-10-31 |
+| 스택 | 5 | [stack-ironRod.js](./section6/stack-ironRod.js) | 2024-10-31 |
+| 스택 | 5 | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |
+| 스택 | 5 | [stack-postfix.js](./section6/stack-postfix.js) | 2024-10-31 |
+| 스택 | 5 | [stack-removeStr.js](./section6/stack-removeStr.js) | 2024-10-29 |
 | 버블정렬 | 3 | [bubbleSort.js](./section7/bubbleSort.js) | 2024-11-07 |
 | 부분정렬 | 4 | [selectionSort.js](./section7/selectionSort.js) | 2024-11-07 |
-| SpecialSort-버블정렬 | 2 | [specialSort.js](./section7/specialSort.js) | 2024-11-07 |
+| 버블정렬 | 2 | [specialSort.js](./section7/specialSort.js) | 2024-11-07 |
