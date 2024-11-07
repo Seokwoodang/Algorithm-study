@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 49
+누적 : 50
 
 | 제목 | 레벨 | 파일 | 날짜 |
 | --- | --- | -- | -- |
@@ -55,4 +55,5 @@
 |  |  | [stack-parenthesis.js](./section6/stack-parenthesis.js) | 2024-10-29 |
 |  |  | [stack-postfix.js](./section6/stack-postfix.js) | 2024-10-31 |
 |  |  | [stack-removeStr.js](./section6/stack-removeStr.js) | 2024-10-29 |
+| 버블정렬 | 3 | [bubbleSort.js](./section7/bubbleSort.js) | 2024-11-07 |
 | 부분정렬 | 4 | [selectionSort.js](./section7/selectionSort.js) | 2024-11-07 |
