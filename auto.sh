@@ -27,7 +27,7 @@ for JS_DIR in $JS_DIRS; do
 done
 
 for entry in $(printf "%s\n" "${entries[@]}" | sort); do
-    IFS="|" read -r date title level file <<< "$entry"
+    IFS="|" read -r date title level file etc <<< "$entry"
     echo "| $title | $level | $file | $date | $etc |" >> README.md
 done 
 
