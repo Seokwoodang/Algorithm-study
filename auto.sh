@@ -9,8 +9,8 @@ echo "자바스크립트 알고리즘 공부" >> README.md
 echo "" >> README.md
 echo "누적 : $JS_CNT" >> README.md
 echo "" >> README.md
-echo "| 제목 | 레벨 | 파일 | 날짜 |" >> README.md
-echo "| --- | --- | -- | -- |" >> README.md
+echo "| 제목 | 레벨 | 파일 | 날짜 | 비고 |" >> README.md
+echo "| --- | --- | -- | -- | --- |" >> README.md
 
 entries=()
 
@@ -19,15 +19,16 @@ for JS_DIR in $JS_DIRS; do
     DATETIME=$(git log --diff-filter=A --format=%ad --date=short -- $JS_DIR)
     title=$(cat $JS_DIR | grep "//title:" | sed -n 's/.*\/\/title:\(.*\)/\1/p')
     level=$(cat $JS_DIR | grep "//level:" | sed -n 's/.*\/\/level:\(.*\)/\1/p')
+    etc=$(grep "//etc:" "$JS_DIR" | sed -n 's/.*\/\/etc:\(.*\)/\1/p')
     JS_FILE=$(basename $JS_DIR)
     
-    entries+=("$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)")
+    entries+=("$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)|$etc")
 
 done
 
 for entry in $(printf "%s\n" "${entries[@]}" | sort); do
     IFS="|" read -r date title level file <<< "$entry"
-    echo "| $title | $level | $file | $date |" >> README.md
+    echo "| $title | $level | $file | $date | $etc |" >> README.md
 done 
 
 git add .
