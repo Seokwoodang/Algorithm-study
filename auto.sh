@@ -12,19 +12,23 @@ echo "" >> README.md
 echo "| 제목 | 레벨 | 파일 | 날짜 |" >> README.md
 echo "| --- | --- | -- | -- |" >> README.md
 
+entries=()
 
 for JS_DIR in $JS_DIRS; do
 
     DATETIME=$(git log --diff-filter=A --format=%ad --date=short -- $JS_DIR)
-
     title=$(cat $JS_DIR | grep "//title:" | sed -n 's/.*\/\/title:\(.*\)/\1/p')
     level=$(cat $JS_DIR | grep "//level:" | sed -n 's/.*\/\/level:\(.*\)/\1/p')
-
     JS_FILE=$(basename $JS_DIR)
-
-    echo "| $title | $level | [$JS_FILE]($JS_DIR) | $DATETIME |" >> README.md
+    
+    entries+=("$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)")
 
 done
+
+for entry in $(printf "%s\n" "${entries[@]}" | sort); do
+    IFS="|" read -r date title level file <<< "$entry"
+    echo "| $title | $level | $file | $date |" >> README.md
+done 
 
 git add .
 IS_GENERATED_MD=$(git status | grep -e README.md)
