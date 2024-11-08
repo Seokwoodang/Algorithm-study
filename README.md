@@ -57,4 +57,4 @@
 | 큐 | 5 | [queue-princess.js](./section6/queue-princess.js) | 2024-11-04 |  |
 | 버블정렬 | 2 | [specialSort.js](./section7/specialSort.js) | 2024-11-07 |  |
 | 버블정렬 | 3 | [bubbleSort.js](./section7/bubbleSort.js) | 2024-11-07 |  |
-| 부분정렬 | 4 | [selectionSort.js](./section7/selectionSort.js) | 2024-11-07 |  |
+| 부분정렬 | 4 | [selectionSort.js](./section7/selectionSort.js)|부분부분정렬해주기 | 2024-11-07 |  |
