@@ -1,5 +1,6 @@
 //title:부분정렬
 //level:4
+//etc:부분부분정렬해주기
 
 const solution = (arr) => {
   let answer = arr;
