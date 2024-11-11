@@ -1,6 +1,7 @@
 //title:해쉬
 //level:5
-//etc:newMap()을_잘써보자.
+//etc:
+//newMap()을_잘써보자.
 
 const solution = (str1, str2) => {
   let sH = new Map();
