@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 53
+누적 : 54
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -60,3 +60,4 @@
 | 부분정렬 | 4 | [selectionSort.js](./section7/selectionSort.js) | 2024-11-07 | 부분부분정렬해주기 |
 | LRU(삽입정렬응용) | 5 | [LRUCache.js](./section7/LRUCache.js) | 2024-11-11 |  |
 | 삽입정렬 | 5 | [insertSort.js](./section7/insertSort.js) | 2024-11-11 | [삽입정렬_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC-5) |
+| 장난꾸러기_현수 | 4 | [cutieHyunsoo.js](./section7/cutieHyunsoo.js) | 2024-11-12 |  |
