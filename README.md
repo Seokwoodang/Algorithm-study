@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 56
+누적 : 57
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -63,3 +63,4 @@
 | 장난꾸러기_현수 | 4 | [cutieHyunsoo.js](./section7/cutieHyunsoo.js) | 2024-11-12 |  |
 | 좌표정렬 | 3 | [coordinateSort.js](./section7/coordinateSort.js) | 2024-11-12 | sort()_한층깊이_사용하기 |
 | 결혼식 | 6 | [marrage.js](./section7/marrage.js) | 2024-11-13 | 정렬및분리 |
+| 회의실배정 | 6 | [meetingRoom.js](./section7/meetingRoom.js) | 2024-11-13 | 끝시간에맞춰정렬 |
