@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 60
+누적 : 61
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -67,3 +67,4 @@
 | 뮤직비디오 | 7 | [musicVideo.js](./section7/musicVideo.js) | 2024-11-18 | 이분검색응용 |
 | 이분검색 | 5 | [binarySearch.js](./section7/binarySearch.js) | 2024-11-18 | [이분검색_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89-13) |
 | 마구간정하기 | 8 | [stable.js](./section7/stable.js) | 2024-11-21 | 이분검색 |
+| 재귀함수 | 2 | [recursionFunction.js](./section8/recursionFunction.js) | 2024-11-22 | [재귀함수_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98-17) |
