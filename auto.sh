@@ -23,7 +23,7 @@ for JS_DIR in $JS_DIRS; do
     etc=$(grep "//etc:" "$JS_DIR" | sed -n 's/.*\/\/etc:\(.*\)/\1/p')
     JS_FILE=$(basename $JS_DIR)
     
-    entries+=("$FULL_DATETIME|$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)|$etc")
+    entries+=("$(echo "$FULL_DATETIME|$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)|$etc" | tr -d '\r')")
 
 done
 
