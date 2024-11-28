@@ -16,18 +16,19 @@ entries=()
 
 for JS_DIR in $JS_DIRS; do
 
+    FULL_DATETIME=$(git log --diff-filter=A --format='%ad' --date=iso -- $JS_DIR)
     DATETIME=$(git log --diff-filter=A --format=%ad --date=short -- $JS_DIR)
     title=$(cat $JS_DIR | grep "//title:" | sed -n 's/.*\/\/title:\(.*\)/\1/p')
     level=$(cat $JS_DIR | grep "//level:" | sed -n 's/.*\/\/level:\(.*\)/\1/p')
     etc=$(grep "//etc:" "$JS_DIR" | sed -n 's/.*\/\/etc:\(.*\)/\1/p')
     JS_FILE=$(basename $JS_DIR)
     
-    entries+=("$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)|$etc")
+    entries+=("$FULL_DATETIME|$DATETIME|$title|$level|[$JS_FILE]($JS_DIR)|$etc")
 
 done
 
 for entry in $(printf "%s\n" "${entries[@]}" | sort); do
-    IFS="|" read -r date title level file etc <<< "$entry"
+    IFS="|" read -r full_datetime date title level file etc <<< "$entry"
     echo "| $title | $level | $file | $date | $etc |" >> README.md
 done 
 
