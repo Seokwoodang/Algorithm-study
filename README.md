@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 70
+누적 : 71
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -77,3 +77,4 @@
 | 최대점수_구하기 | 6 | [maxScore.js](./section8/maxScore.js) | 2024-11-28 | DFS |
 | 합이같은_부분집합 | 6 | [subSetSum.js](./section8/subSetSum.js) | 2024-11-28 | 이진트리(DFS) |
 | 순열구하기 | 5 | [permutation.js](./section8/permutation.js) | 2024-11-29 | [순열_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0-23) |
+| 팩토리얼 | 3 | [factorial.js](./section8/factorial.js) | 2024-11-29 | DFS |
