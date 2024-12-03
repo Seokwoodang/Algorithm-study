@@ -1,3 +1,7 @@
+//title:조합_구하기
+//level:5
+//etc:조합
+
 const solution = (n, m) => {
   let answer = [];
   let tmp = Array.from({ length: m }, () => 0);
