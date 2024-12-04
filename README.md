@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 76
+누적 : 77
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -83,3 +83,4 @@
 | 경로탐색_인접행렬 | 7 | [adjacencyMatrix.js](./section9/adjacencyMatrix.js) | 2024-12-03 | [인접행렬_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80-%EC%9D%B8%EC%A0%91%ED%96%89%EB%A0%AC-29) |
 | 수들의_조합 | 6 | [combinationNumber.js](./section8/combinationNumber.js) | 2024-12-03 | 조합 |
 | 조합_구하기 | 5 | [combinationMarble.js](./section8/combinationMarble.js) | 2024-12-03 | 조합 |
+| 경로탐색_인접행렬 | 7 | [adjacencyList.js](./section9/adjacencyList.js) | 2024-12-04 | [인접리스트_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80-%EC%9D%B8%EC%A0%91%EB%A6%AC%EC%8A%A4%ED%8A%B8-33) |
