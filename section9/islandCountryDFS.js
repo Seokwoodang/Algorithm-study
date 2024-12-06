@@ -1,4 +1,4 @@
-//title:섬나라 아일랜드
+//title:섬나라아일랜드
 //level:6
 //etc:DFS
 

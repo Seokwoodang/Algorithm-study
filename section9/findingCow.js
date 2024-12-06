@@ -1,4 +1,4 @@
-//title:송아지 찾기
+//title:송아지찾기
 //level:7
 //etc:BFS
 
