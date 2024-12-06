@@ -86,9 +86,6 @@
 | 경로탐색_인접행렬 | 7 | [adjacencyList.js](./section9/adjacencyList.js) | 2024-12-04 | [인접리스트_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80-%EC%9D%B8%EC%A0%91%EB%A6%AC%EC%8A%A4%ED%8A%B8-33) |
 | 미로탐색 | 7 | [mazeSearch.js](./section9/mazeSearch.js) | 2024-12-04 | 인접행렬 |
 | 이진트리(BFS) | 3 | [BFS.js](./section9/BFS.js) | 2024-12-04 | [넓이우선탐색_블로그정리](https://inblog.ai/luke/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-33865#%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-bfs-37) |
-| 섬나라 |  |  | 2024-12-06 |  |
-| 6 | [islandCountryBFS.js](./section9/islandCountryBFS.js) | BFS | 아일랜드 |  |
-| 섬나라 |  |  | 2024-12-06 |  |
-| 6 | [islandCountryDFS.js](./section9/islandCountryDFS.js) | DFS | 아일랜드 |  |
-| 송아지 |  |  | 2024-12-06 |  |
-| 7 | [findingCow.js](./section9/findingCow.js) | BFS | 찾기 |  |
+| 섬나라아일랜드 | 6 | [islandCountryBFS.js](./section9/islandCountryBFS.js) | 2024-12-06 | BFS |
+| 섬나라아일랜드 | 6 | [islandCountryDFS.js](./section9/islandCountryDFS.js) | 2024-12-06 | DFS |
+| 송아지찾기 | 7 | [findingCow.js](./section9/findingCow.js) | 2024-12-06 | BFS |
