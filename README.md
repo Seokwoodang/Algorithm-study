@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 84
+누적 : 85
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -91,3 +91,4 @@
 | 송아지찾기 | 7 | [findingCow.js](./section9/findingCow.js) | 2024-12-06 | BFS |
 | 계단오르기 | 4 | [stair.js](./section10/stair.js) | 2024-12-09 | 동적계획법 |
 | 돌다리건너기 | 4 | [rockBridge.js](./section10/rockBridge.js) | 2024-12-10 | 동적계획법 |
+| 최대부분_증가수열 | 7 | [progression.js](./section10/progression.js) | 2024-12-10 | 동적계획법 |
