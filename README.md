@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 82
+누적 : 83
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -89,3 +89,4 @@
 | 섬나라아일랜드 | 6 | [islandCountryBFS.js](./section9/islandCountryBFS.js) | 2024-12-06 | BFS |
 | 섬나라아일랜드 | 6 | [islandCountryDFS.js](./section9/islandCountryDFS.js) | 2024-12-06 | DFS |
 | 송아지찾기 | 7 | [findingCow.js](./section9/findingCow.js) | 2024-12-06 | BFS |
+| 계단오르기 | 4 | [stair.js](./section10/stair.js) | 2024-12-09 | 동적계획법 |
