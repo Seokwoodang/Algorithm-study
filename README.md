@@ -3,7 +3,7 @@
 
 자바스크립트 알고리즘 공부
 
-누적 : 85
+누적 : 87
 
 | 제목 | 레벨 | 파일 | 날짜 | 비고 |
 | --- | --- | -- | -- | --- |
@@ -91,4 +91,6 @@
 | 송아지찾기 | 7 | [findingCow.js](./section9/findingCow.js) | 2024-12-06 | BFS |
 | 계단오르기 | 4 | [stair.js](./section10/stair.js) | 2024-12-09 | 동적계획법 |
 | 돌다리건너기 | 4 | [rockBridge.js](./section10/rockBridge.js) | 2024-12-10 | 동적계획법 |
+| 동전교환 | 7 | [coinExchange.js](./section10/coinExchange.js) | 2024-12-10 | 냅색알고리즘 |
 | 최대부분_증가수열 | 7 | [progression.js](./section10/progression.js) | 2024-12-10 | 동적계획법 |
+| 최대점수구하기 | 7 | [maxScore.js](./section10/maxScore.js) | 2024-12-10 | 냅색을이용한조합 |
